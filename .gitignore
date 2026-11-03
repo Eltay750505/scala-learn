@@ -17,6 +17,7 @@ src_managed/
 metals.sbt
 project/metals.sbt
 
+
 # IntelliJ IDEA
 .idea/
 *.iml
